@@ -60,6 +60,8 @@ class MISOMADNESS_API UMiSoGameInstance : public UGameInstance
 public:
 //Constructor
 	UMiSoGameInstance();
+	UPROPERTY(BlueprintReadWrite)
+		int whichCharacter;
 
 protected:
 	FName MySessionName;

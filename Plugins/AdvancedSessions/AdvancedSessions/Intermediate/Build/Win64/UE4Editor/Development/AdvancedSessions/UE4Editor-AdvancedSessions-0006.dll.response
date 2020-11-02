@@ -70,8 +70,8 @@
 "D:\Program Installs\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "D:\Program Installs\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
 "D:\Program Installs\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
-/OUT:"D:\Unreal\miSoMadness\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions.dll"
-/IMPLIB:"D:\Unreal\miSoMadness\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.lib"
-/PDB:"D:\Unreal\miSoMadness\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions.pdb"
+/OUT:"D:\Unreal\miSoMadness\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions-0006.dll"
+/IMPLIB:"D:\Unreal\miSoMadness\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions-0006.suppressed.lib"
+/PDB:"D:\Unreal\miSoMadness\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4Editor-AdvancedSessions-0006.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_AdvancedSessions

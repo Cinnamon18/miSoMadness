@@ -9,6 +9,7 @@
 UMiSoGameInstance::UMiSoGameInstance()
 {
 	MySessionName = FName("MySession");
+	whichCharacter = 0;
 }
 void UMiSoGameInstance::Init()
 {
